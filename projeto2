@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Principal</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <ul>
+                <li> <a href="template1.html">Pagina Principal</a></li>
+                <li> <a href="template2.html">Sobre a Clínica</a></li>
+                <li> <a href="template3.html">Horário de Atendimento </a></li>
+                <li> <a href="template4.html">Contato </a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <img src="https://img.freepik.com/fotos-premium/banner-sorriso-de-folheado-de-dentes-brancos-perfeitos-com-espelho-dental-close-up-vencedor-feminino-sorriso-atendimento-odontologico-e-estomatologia-odontologia-copyspace_72474-1073.jpg?w=2000
+                " width="1060">
+            </div>
+    
+            <div class="content">
+                <h1><strong>Mogidonto sua clínica odontológica<strong></strong></h1>
+                <p>Somos a melhor da sua região desde 1976</p>
+            </div>
+    
+            <div class="footer">
+                <img src="https://reslumbre.com.br/wp-content/uploads/2021/08/anatomia-dente.jpg"
+                width="400" >
+                <blockquote>Endereço: R. Pres. Nereu Ramos, 115-171 - Jardim Santa Helena, Suzano - SP, 08674-270
+                    Contato: (11) 4728-5444</blockquote> 
+            </div>
+        </div>
+    </div>
+</body>
+</html>

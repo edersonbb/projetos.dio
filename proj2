@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Nos</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+   <div class="wrapper">
+            <div class="menu">
+                <ul>
+                    <li> <a href="template1.html">Pagina Principal</a></li>
+                    <li> <a href="template2.html">Sobre a Clínica</a></li>
+                    <li> <a href="template3.html">Horário de Atendimento </a></li>
+                    <li> <a href="template4.html">Contato </a></li>
+                </ul>
+            </div>
+        <div class="main">
+            <div class="header">
+                <img src="https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-dental-health-background-picture-image_159644.jpg" width="1000">
+
+            </div>
+    
+            <div class="content">
+                <h1><strong>Bem Vindos à Mogidonto</strong> </h1>
+                <h2><Strong>Tratamentos de qualidade para todos</Strong></h2>
+                <p> <i> Desde <mark>1976</mark> a Mogidonto trabalha para falicitar o acesso das
+                    pessoas a um tratamento odontológico de qualidade. foi com seus
+                    planos juntos que a empresa cresceu e ganhou a confiança de mihares de sorrisos
+                    em todo o país. </i></p>
+                <p><i> Somos uma empresa focada 100% em odontologia com rede verficalizada e que se preocupada
+                    de verdade com a sua felidade!</i></p>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/DS9TpJiIVSM?si=AqQrYqR8RdNyngdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    allowfullscreen></iframe>
+                    
+            </div>
+    
+            <div class="footer">
+                <img src="https://reslumbre.com.br/wp-content/uploads/2021/08/anatomia-dente.jpg"
+                width="400" >
+                <blockquote>Endereço: R. Pres. Nereu Ramos, 115-171 - Jardim Santa Helena, Suzano - SP, 08674-270
+                    Contato: (11) 4728-5444</blockquote> 
+            </div>
+        </div>
+    </div>
+</body>
+</html>

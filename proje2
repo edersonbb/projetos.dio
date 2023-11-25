@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serviços</title>
+    <link rel="stylesheet" href="base.css">
+    <style>
+        table {
+            --webkit-box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, -20px 41px 22px 15px rgba(102,243,255,0); 
+box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, -20px 41px 22px 15px rgba(102,243,255,0);}
+         table thead th {
+           background-color: black;
+            color: white;
+        }
+    table tfoot td {
+            background-color: lightgray;
+        }
+    table tbody tr:nth-child(even) td {
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+   <div class="wrapper">
+        <div class="menu">
+            
+           <ul>
+                <li> <a href="template1.html">Pagina Principal</a></li>
+                <li> <a href="template2.html">Sobre a Clínica</a></li>
+                <li> <a href="template3.html">Horário de Atendimento </a></li>
+                <li> <a href="template4.html">Contato </a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <img src="https://img.freepik.com/fotos-premium/banner-com-o-sorriso-de-uma-garota_563818-6406.jpg"
+                 width="1000">
+            </div>
+    
+            <div class="content">
+                <h1> Conheça nossos serviços e os horarios 
+                    de funcionamento </h1> 
+                <table summary="Tabelas de Hórarios" 
+                width="250" cellspacing="5"
+               cellpadding="5" align="center">
+               <thead>     
+               <tr id="1">
+                        <th> Serviços </th>
+                        <th>Segunda a Sexta</th>
+                        <th>Sábados</th>
+                        <th> Feriados </th>
+                    </tr>
+                </thead>
+                <tbody>    
+                <tr id="2">
+                        <td>Clinica geral</td>
+                        <td>08h - 19h</td>
+                        <td> 08h - 14h</td>
+                        <td> 08h - 14h</td>
+                    </tr>
+                    <tr id="3">
+                        <td>Manutenção de aparelhos</td>
+                        <td>08h - 19h</td>
+                        <td>08h - 19h</td>
+                        <td>08h - 19h</td>
+                    </tr>
+                   <tr id="4">
+                        <td>Cirurgias</td>
+                        <td>08h - 19h</td>
+                        <td>08h - 19h</td>
+                        <td>-</td>
+                   </tr>
+                <tr id="5">
+                    <td>Protese Dentarias</td>
+                    <td>08h - 19h</td>
+                    <td>08h - 19h</td>
+                    <td>-</td>
+                </tr>
+            </tbody>
+
+                </table>
+                
+            </div>
+    
+            <div class="footer">
+                <img src="https://reslumbre.com.br/wp-content/uploads/2021/08/anatomia-dente.jpg"
+                width="400" >
+                <blockquote>Endereço: R. Pres. Nereu Ramos, 115-171 - Jardim Santa Helena, Suzano - SP, 08674-270
+                    Contato: (11) 4728-5444</blockquote> 
+            </div>
+        </div>
+    </div>
+</body>
+</html>
